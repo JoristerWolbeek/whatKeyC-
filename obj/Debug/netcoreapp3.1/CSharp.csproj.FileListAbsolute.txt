@@ -1,0 +1,13 @@
+C:\priveProjects\CSharp\bin\Debug\netcoreapp3.1\CSharp.exe
+C:\priveProjects\CSharp\bin\Debug\netcoreapp3.1\CSharp.deps.json
+C:\priveProjects\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+C:\priveProjects\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+C:\priveProjects\CSharp\bin\Debug\netcoreapp3.1\CSharp.dll
+C:\priveProjects\CSharp\bin\Debug\netcoreapp3.1\CSharp.pdb
+C:\priveProjects\CSharp\obj\Debug\netcoreapp3.1\CSharp.csprojAssemblyReference.cache
+C:\priveProjects\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+C:\priveProjects\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+C:\priveProjects\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CoreCompileInputs.cache
+C:\priveProjects\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
+C:\priveProjects\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
+C:\priveProjects\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache
